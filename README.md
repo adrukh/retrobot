@@ -12,6 +12,8 @@ retrobot streamlines team discussions by:
 
 ## Getting Started
 
+**First time setup?** See [SETUP.md](SETUP.md) for complete installation and configuration instructions.
+
 ### Invite retrobot to Your Channel
 ```
 /invite @retrobot
